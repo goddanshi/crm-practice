@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-// Глобальные настройки приложения
+// Глобальные настройки приложения and test
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap";
 
